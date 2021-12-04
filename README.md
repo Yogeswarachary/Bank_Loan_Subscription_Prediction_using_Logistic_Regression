@@ -1,0 +1,2 @@
+# Bank_Loan_Subscription_Prediction_using_Logistic_Regression
+Predicting Bank loan subscriptions, with the help of Logistic_Regression algorithm
